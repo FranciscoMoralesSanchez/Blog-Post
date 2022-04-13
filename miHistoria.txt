@@ -3,3 +3,5 @@ tengo la edad de 25 años
 soy estudiante de ingenieria de sistemas 
 y naci en nicaragua
 y queiero crear paginas web
+
+Me gusta hacer ejercicio regularmente.
